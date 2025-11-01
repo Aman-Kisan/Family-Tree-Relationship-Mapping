@@ -1,0 +1,7 @@
+id,name,gender,parent_id
+1,Sanjay,M,0
+2,Amay,M,1
+3,Sadhna,F,1
+4,Robb,M,2
+5,Jon,M,2
+6,Arya,F,3
