@@ -22,6 +22,16 @@ Using the N-nary tree data structure it creates a familuy tree.
 
 ![ouput image](images/output%20(4).png)
 
+-- The member is inserted with its parent name, members name are always flashed on screen
 
+![output image](images/output%20(3).png)
+
+-- The relationship between two members 
+
+![output image](images/output%20(2).png)
+
+-- The complete map, how one person is related to other in the family
+
+![output image](images/output%20(1).png)
 
 (END)
