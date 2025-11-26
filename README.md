@@ -20,6 +20,8 @@ Using the N-nary tree data structure it creates a familuy tree.
 
 -- The member doesn't have any parent, we call this member the <strong>Supreme</strong>
 
-<img>
+![ouput image](images/output%20(4).png)
+
+
 
 (END)
